@@ -3,7 +3,7 @@ Repositório destinado ao curso de Modelagem de Banco de dados Alura
 
 ### Tópicos do curso
 
-- [ ] Banco de Dados
+- [x] Banco de Dados
 - [ ] Modelo Entidade Relacionamento
 - [ ] Entidades
 - [ ] Diagrama entidade relacionamento
