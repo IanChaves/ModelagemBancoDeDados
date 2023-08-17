@@ -5,6 +5,6 @@ Repositório destinado ao curso de Modelagem de Banco de dados Alura
 
 - [x] Banco de Dados
 - [x] Modelo Entidade Relacionamento
-- [ ] Entidades
-- [ ] Diagrama entidade relacionamento
-- [ ] Atributos
+- [x] Entidades
+- [x] Diagrama entidade relacionamento
+- [x] Atributos
