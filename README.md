@@ -11,7 +11,7 @@ Repositório destinado ao curso de Modelagem de Banco de dados Alura
 
 ### Tópicos do curso 2 - Modelagem de Banco de Dados Relacional: Modelagem Lógica e Física
 
-- [ ] Tipos de Modelagem
+- [x] Tipos de Modelagem
 - [ ] Modelagem Lógica
 - [ ] Modelagem Física
 - [ ] Tipos de dados, tabelas e colunas
